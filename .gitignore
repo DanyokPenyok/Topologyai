@@ -1,0 +1,16 @@
+*.user
+*.user.*
+build/
+build-*/
+.idea/
+.qtcreator/
+*.json
+*.csv
+*.bat
+__pycache__/
+*.py
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
